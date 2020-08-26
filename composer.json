@@ -13,9 +13,9 @@
         }
     },
     "require": {
-        "php": "^7.3",
+        "php": "^7.4",
         "ext-json": "*",
-        "phpunit/phpunit": "^8.0.4"
+        "phpunit/phpunit": "^9"
     },
     "config": {
         "sort-packages": true
